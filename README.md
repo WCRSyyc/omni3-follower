@@ -11,3 +11,5 @@ downward sensors.  The mount points could be moved inside of the sensor circle.
 
 This layout is more robust to variations in the driving surface than the [four omni wheel](https://github.com/WCRSyyc/omni4-follower)
 robot.  With only 3 contact points, it can tilt to match surface contours, and maintain contact and traction on all wheels.
+
+Spreadsheets are included in .xls and .ods formats with position and dimension information for the base and sensor levels.  A .dxf of file is also included, that was created from the spreadsheet information, then used to laser-cut the pieces.
